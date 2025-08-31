@@ -1,4 +1,4 @@
-{
+{"start": "node index.js"
   "name": "steam-top5-rotator",
   "version": "1.0.0",
   "description": "Discord bot that rotates presence with Steam Top-5 most played games.",
