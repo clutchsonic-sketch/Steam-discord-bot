@@ -1,0 +1,15 @@
+{
+  "name": "steam-top5-rotator",
+  "version": "1.0.0",
+  "description": "Discord bot that rotates presence with Steam Top-5 most played games.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5"
+  }
+}
